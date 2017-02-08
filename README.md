@@ -18,21 +18,39 @@
 
 ## Tools
 - [accesslint.js](https://github.com/accesslint/accesslint.js) - Keep accessibility errors in check
+- [babili](https://github.com/babel/babili) - An ES6+ aware minifier based on the Babel toolchain
+- [bel](https://github.com/shama/bel) - Simple library for composable DOM elements using tagged template strings
+- [Blend](http://www.colinkeany.com/blend/) - Create and customize beautiful CSS3 gradients
+- [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [CalculadoraFreela](https://www.calculadorafreela.com/) - Uma ferramenta simples para que você saiba quanto cobrar como freelancer
+- [cep-promise](https://github.com/filipedeschamps/cep-promise) - Busca por CEP integrado diretamente aos serviços dos Correios e ViaCEP
+- [choo](https://github.com/yoshuawuyts/choo) - 5kb framework for creating sturdy frontend applications
 - [Contentful](https://www.contentful.com/) - API-centric microservice for managing content in a developer-friendly way
-- [Blend](http://www.colinkeany.com/blend/) - Create and customize beautiful CSS3 gradients
+- [documentationjs](https://github.com/documentationjs/documentation) - A documentation generation system
+- [fukol-grids](https://github.com/Heydon/fukol-grids) - 93 bytes minified grid system, fitting comfortably inside a tweet
 - [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [`<head>` Cheat Sheet](http://gethead.info/) - A list of everything that could go in the `<head>` of your document
+- [husky](https://github.com/typicode/husky) - Git hooks made easy
 - [ICO Convert](http://icoconvert.com/Multi_Image_to_one_icon/) - Merge Multiple PNG Images Into a Single Icon
 - [Jets.js](https://jets.js.org/) - Native CSS search engine
+- [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds
 - [Layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images
 - [Malla](https://www.malla.io/) - A simple way to store and update your website's text
-- [Mobile Website Speed Testing Tool](https://testmysite.thinkwithgoogle.com/) - Test your sites performance on mobile with Google and receive recommendations for improving performance across all devices
 - [Material-UI](http://www.material-ui.com/#/) - A Set of React Components that Implement Google's Material Design
+- [mitt](https://github.com/developit/mitt) - Tiny 200b functional event emitter / pubsub
+- [Mobile Website Speed Testing Tool](https://testmysite.thinkwithgoogle.com/) - Test your sites performance on mobile with Google and receive recommendations for improving performance across all devices
+- [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching
 - [npmgraph.an](http://npm.anvaka.com/#/) - 2d visualization of npm dependencies
 - [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site
+- [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS
+- [redux](http://redux.js.org/) - Predictable state container for JavaScript apps
+- [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler
 - [Surge](https://surge.sh/) - Static web publishing for Front-End Developers
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Online tool for optimizing SVG vector graphics files
 - [Vanilla List](http://www.vanillalist.com/) - The Vanilla Javascript Repository
-- [Web Application Security Testing Cheat Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet) - This cheat sheet provides a checklist of tasks to be performed during blackbox security testing of a web application.
+- [vmd](https://github.com/yoshuawuyts/vmd) - Preview markdown files in a separate window
+- [Vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
+- [Web Application Security Testing Cheat Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet) - This cheat sheet provides a checklist of tasks to be performed during blackbox security testing of a web application
+- [xo](https://github.com/sindresorhus/xo) - JavaScript happiness style linter
