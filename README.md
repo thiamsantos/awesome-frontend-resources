@@ -34,6 +34,7 @@
 - [gibon](https://github.com/tunnckoCore/gibon) - Functional client-side router in ~570 bytes, built on HTML5 History API
 - [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [`<head>` Cheat Sheet](http://gethead.info/) - A list of everything that could go in the `<head>` of your document
+- [HTML Inspector](https://github.com/philipwalton/html-inspector) - HTML Inspector is a code quality tool to help you and your team write better markup
 - [husky](https://github.com/typicode/husky) - Git hooks made easy
 - [ICO Convert](http://icoconvert.com/Multi_Image_to_one_icon/) - Merge Multiple PNG Images Into a Single Icon
 - [Jets.js](https://jets.js.org/) - Native CSS search engine
