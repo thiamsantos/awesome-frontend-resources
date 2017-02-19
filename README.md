@@ -19,6 +19,7 @@
 ## Tools
 - [accesslint.js](https://github.com/accesslint/accesslint.js) - Keep accessibility errors in check
 - [babili](https://github.com/babel/babili) - An ES6+ aware minifier based on the Babel toolchain
+- [BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls
 - [bel](https://github.com/shama/bel) - Simple library for composable DOM elements using tagged template strings
 - [Blend](http://www.colinkeany.com/blend/) - Create and customize beautiful CSS3 gradients
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -30,6 +31,7 @@
 - [Contentful](https://www.contentful.com/) - API-centric microservice for managing content in a developer-friendly way
 - [documentationjs](https://github.com/documentationjs/documentation) - A documentation generation system
 - [fukol-grids](https://github.com/Heydon/fukol-grids) - 93 bytes minified grid system, fitting comfortably inside a tweet
+- [gibon](https://github.com/tunnckoCore/gibon) - Functional client-side router in ~570 bytes, built on HTML5 History API
 - [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [`<head>` Cheat Sheet](http://gethead.info/) - A list of everything that could go in the `<head>` of your document
 - [husky](https://github.com/typicode/husky) - Git hooks made easy
@@ -49,8 +51,14 @@
 - [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler
 - [Surge](https://surge.sh/) - Static web publishing for Front-End Developers
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Online tool for optimizing SVG vector graphics files
+- [tota11y](https://github.com/Khan/tota11y) - An accessibility visualization toolkit
 - [Vanilla List](http://www.vanillalist.com/) - The Vanilla Javascript Repository
 - [vmd](https://github.com/yoshuawuyts/vmd) - Preview markdown files in a separate window
 - [Vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [Web Application Security Testing Cheat Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet) - This cheat sheet provides a checklist of tasks to be performed during blackbox security testing of a web application
 - [xo](https://github.com/sindresorhus/xo) - JavaScript happiness style linter
+
+## Miscellaneous
+- [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization
+- [Open Source Guide](https://opensource.guide/) - A community guide for open source creators
+
