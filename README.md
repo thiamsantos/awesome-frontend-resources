@@ -47,6 +47,7 @@
 - [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching
 - [npmgraph.an](http://npm.anvaka.com/#/) - 2d visualization of npm dependencies
 - [Performance Budget Calculator](http://www.performancebudget.io/) - Calculate A Performance Budget For Your Site
+- [Photophea](https://www.photopea.com/) - Open, edit and save Photoshop and Gimp files
 - [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS
 - [redux](http://redux.js.org/) - Predictable state container for JavaScript apps
 - [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler
@@ -61,5 +62,14 @@
 
 ## Miscellaneous
 - [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization
+- [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Emoji cheat sheet for GitHub, Basecamp and other services
+- [Emojipedia](http://emojipedia.org/) - Home of Emoji Meanings
+- [Frontend Challenges](https://github.com/LFeh/frontend-challenges) - List of some playful open-source's challenges of jobs
 - [Open Source Guide](https://opensource.guide/) - A community guide for open source creators
 
+## Books
+- [Eloquent JavaScript](http://eloquentjavascript.net/) :us: 🇧🇷 :ru: 🇧🇬
+- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html) :us:
+- [Exploring ES6](http://exploringjs.com/es6/) :us:
+- [Speaking Javascript](http://speakingjs.com/es5/) :us:
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :us:
