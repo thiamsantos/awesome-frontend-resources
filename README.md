@@ -6,7 +6,7 @@
 - [Tools](#tools)
 - [Miscellaneous](#miscellaneous)
 - [Books](#books)
-
+- [License](https://thiamsantos.github.io/)
 ## Articles
 - [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/) :us:
 - [8 Clever Tricks with CSS Functions](https://www.sitepoint.com/8-clever-tricks-with-css-functions/) :us:
@@ -79,3 +79,8 @@
 - [Exploring ES6](http://exploringjs.com/es6/) :us:
 - [Speaking Javascript](http://speakingjs.com/es5/) :us:
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :us:
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Thiago Santos](https://thiamsantos.github.io/) has waived all copyright and related or neighboring rights to this work.
