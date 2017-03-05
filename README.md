@@ -7,6 +7,7 @@
 - [Miscellaneous](#miscellaneous)
 - [Books](#books)
 - [License](https://thiamsantos.github.io/)
+
 ## Articles
 - [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/) :us:
 - [8 Clever Tricks with CSS Functions](https://www.sitepoint.com/8-clever-tricks-with-css-functions/) :us:
