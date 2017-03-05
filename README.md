@@ -1,6 +1,12 @@
 # useful-resources
 > Useful tools and articles for web development
 
+## Table of Contents
+- [Articles](#articles)
+- [Tools](#tools)
+- [Miscellaneous](#miscellaneous)
+- [Books](#books)
+
 ## Articles
 - [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/) :us:
 - [8 Clever Tricks with CSS Functions](https://www.sitepoint.com/8-clever-tricks-with-css-functions/) :us:
