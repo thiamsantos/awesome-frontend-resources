@@ -1,12 +1,11 @@
-# useful-resources
-> Useful tools and articles for web development
+# Awesome Frontend Resources
+> :sunglasses: A curated list of useful frontend resources
 
 ## Table of Contents
 - [Articles](#articles)
 - [Books](#books)
 - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
-- [License](https://thiamsantos.github.io/)
 
 ## Articles
 - [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/) :us:
@@ -80,6 +79,11 @@
 - [Vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [Web Application Security Testing Cheat Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet) - This cheat sheet provides a checklist of tasks to be performed during blackbox security testing of a web application
 - [xo](https://github.com/sindresorhus/xo) - JavaScript happiness style linter
+
+## Other Awesome Lists
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
